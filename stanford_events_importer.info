@@ -8,7 +8,7 @@ project = "stanford_events_importer"
 dependencies[] = "ctools"
 dependencies[] = "date"
 dependencies[] = "features"
-dependencies[] = "feeds"
+dependencies[] = feeds (<=7.x-2.0-alpha7)
 dependencies[] = "feeds_xpathparser"
 dependencies[] = "feeds_tamper"
 dependencies[] = "image"
